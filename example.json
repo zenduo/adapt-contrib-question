@@ -1,0 +1,39 @@
+{
+    "_id":"c-125",
+    "_parentId":"b-60",
+    "_type":"component",
+    "_component":"question",
+    "_classes":"",
+    "_layout":"full",
+    "_attempts":1,
+    "_questionWeight":1,
+    "title": "Question",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_items": [
+        {
+            "text": "This is option 1."
+        }
+    ],
+    "_feedback":{
+        "correct":"Congratulations, this is the correct feedback.",
+        "_incorrect": {
+            "notFinal": "",
+            "final": "Unfortunately this is the incorrect feedback."
+        },
+        "_partlyCorrect": {
+            "notFinal": "",
+            "final": "This is the partly correct feedback."
+        }
+    },
+    "_buttons":{
+        "submit": "",
+        "reset": "",
+        "showCorrectAnswer": "",
+        "hideCorrectAnswer": "",
+        "showFeedback": "",
+        "remainingAttempts": "",
+        "remainingAttempt": ""
+    }
+}

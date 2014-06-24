@@ -1,0 +1,9 @@
+{{! Make sure you change the classes containing 'question' to your component name}}
+
+<div class="question-inner component-inner">
+    {{> component this}}
+    <div class="question-widget component-widget clearfix {{#unless _isEnabled}} disabled {{#if _isComplete}} complete submitted {{#if _isCorrect}}correct{{/if}} {{/if}} {{/unless}}">
+    </div>
+    <div class="buttons">
+    </div>
+</div>

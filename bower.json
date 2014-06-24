@@ -1,0 +1,17 @@
+{
+  "name": "adapt-contrib-question",
+  "version": "0.0.2",
+  "homepage": "https://github.com/adaptlearning/adapt-contrib-question",
+  "authors": [
+    "Daryl Hedley <darylhedley@gmail.com>"
+  ],
+  "displayName" : "A skeleton for building question components",
+  "component" : "question",
+  "description": "A skeleton for building question components",
+  "main": "/js/adapt-contrib-question.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPLv3"
+}
