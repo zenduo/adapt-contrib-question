@@ -1,8 +1,3 @@
-/*
-* adapt-contrib-question
-* License - http://github.com/adaptlearning/adapt_framework/LICENSE
-* Maintainers - Daryl Hedley <darylhedley@gmail.com>
-*/
 define(function(require) {
 
     var QuestionView = require('coreViews/questionView');
