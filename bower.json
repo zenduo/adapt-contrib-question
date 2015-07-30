@@ -2,9 +2,7 @@
   "name": "adapt-contrib-question",
   "version": "0.0.2",
   "homepage": "https://github.com/adaptlearning/adapt-contrib-question",
-  "authors": [
-    "Daryl Hedley <darylhedley@gmail.com>"
-  ],
+  "issues": "https://github.com/adaptlearning/adapt-contrib-question/issues",
   "displayName" : "A skeleton for building question components",
   "component" : "question",
   "description": "A skeleton for building question components",
